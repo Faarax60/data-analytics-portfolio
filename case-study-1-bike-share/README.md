@@ -5,6 +5,7 @@ How do annual members and casual riders use Cyclistic bikes differently, and how
 
 ## Data Sources
 Cyclistic trip data: 12 monthly CSV files, October 2025 to September 2026, with one row per ride.
+Tools: Python (pandas) for cleaning and analysis, Tableau Public for the visualisation.
 
 ## Cleaning
 - Combined the 12 files into one dataset of 6,171,785 rides.
@@ -26,3 +27,6 @@ Cyclistic trip data: 12 monthly CSV files, October 2025 to September 2026, with 
 1. Offer weekend and summer membership deals to casual riders.
 2. Promote commuter benefits to members on weekdays.
 3. Launch membership campaigns in spring, before the summer peak.
+
+## Credits
+This case study is based on the Cyclistic scenario from the Google Data Analytics Certificate.
