@@ -20,7 +20,7 @@ Cyclistic trip data: 12 monthly CSV files, October 2025 to September 2026, with 
 - Both groups ride most in summer. Casual rides rise from 24,656 in January to 357,121 in July.
 
 ## Visualisation
-[Casual vs Member Rides by Day](PASTE_TABLEAU_LINK_HERE)
+[Casual vs Member Rides by Day](https://public.tableau.com/app/profile/faarah.furan.mohamed/viz/CyclisticcasualvsMemberRides/Sheet1)
 
 ## Recommendations
 1. Offer weekend and summer membership deals to casual riders.
